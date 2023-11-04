@@ -1,0 +1,108 @@
+.content-container {
+    margin: 24px;
+    margin-top: 180px;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* transition: 0.3s; */
+    padding: 16px;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.detail-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.detail-img-main {
+    width: 250px;
+    height: 300px;
+}
+
+.detail-sub-photo-container {
+    margin-left: 8px;
+}
+
+.detail-img-sub {
+    width: 100px;
+    height: 100px;
+}
+
+.detail-img-sub-spacing {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.icon-location-dot {
+    width: 12px;
+    height: 12px;
+}
+
+.left-spacing {
+    margin-left: 24px;
+}
+
+.detail-title {
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.text-purple {
+    color: #AB6B8A;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.btn-purple {
+    background-color: #AB6B8A;
+    column-rule: white;
+    font-size: 25px;
+}
+
+.bg-purple {
+    background-color: #AB6B8A;
+}
+
+.custom-hr {
+    background-color: #AB6B8A;
+    border-width: 3 px;
+}
+
+.circle-img {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.seller-img {
+    width: 100px;
+    height: 100px;
+}
+
+.review-img {
+    width: 75px;
+    height: 75px;
+}
+
+.product-img {
+    width: 50px;
+    height: 40px;
+}
+
+.bg-product-review-container {
+    background-color: #D9D9D9;
+}
+
+.checked {
+    color: orange;
+}
